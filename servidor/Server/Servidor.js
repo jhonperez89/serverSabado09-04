@@ -1,6 +1,6 @@
 //importo el frameword express
 // const express = require('express')
-import { Express } from 'express'
+import  express  from 'express'
 
 export class Servidor {
 
